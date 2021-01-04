@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "/usr/bin/python3",
+    "python.pythonPath": "ds/bin/python3",
     "python.formatting.provider": "black"
 }
