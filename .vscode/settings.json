@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "ds/bin/python3",
+    "python.pythonPath": "/home/mohakchugh/anaconda3/bin/python",
     "python.formatting.provider": "black"
 }
